@@ -11,3 +11,15 @@ git push -u origin main #a fejlesztési ág feltültése első alkalommal
 git remote add origin https://github.com/hancsika15/Teszt.git
 git branch -M main
 git push -u origin main
+
+
+További terminál parancsok
+git pull origin main #a friss repo letöltése
+git remote -v #aktuális repo lekérdezése
+git status #change,stage,commit állapot lekérdezése
+git config --global --list #globális beállítások listázása
+cd <directory name> #Change Directory
+cd.. #egy mappával feljebb lép
+mkdir<directory name> #makedirectory
+rmdir<directory name> #remove directory
+ls #list -könyvtár listázása
