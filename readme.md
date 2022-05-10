@@ -23,3 +23,4 @@ cd.. #egy mappával feljebb lép
 mkdir<directory name> #makedirectory
 rmdir<directory name> #remove directory
 ls #list -könyvtár listázása
+git commit -am "messeage" #összes változtatást és commit egy lépésben
